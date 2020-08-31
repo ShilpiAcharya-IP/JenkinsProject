@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e35fafe-cf7c-40c7-9934-100179103b59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RadioButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BrowserCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BrowserCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVQigVSUPJXCIjsJ5HTyFaeHBE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RadioButton">
+    <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Example" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.dropDownTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Example" />
+      <option name="METHOD_NAME" value="dropDownTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JenkinsPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RadioButton" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RadioButton" />
+        <item itemvalue="TestNG.Example.dropDownTest" />
+        <item itemvalue="TestNG.Example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e35fafe-cf7c-40c7-9934-100179103b59" name="Default Changelist" comment="" />
+      <created>1598197408531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598197408531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom" timestamp="1598883847360">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1598197624723" />
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1598883847360" />
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1598293356485" />
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1598376823329" />
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1598776712386" />
+    <state width="1384" height="250" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1598868088600" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center" timestamp="1598883847359">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1598197624722" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1598883847359" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1598293356484" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1598376823328" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1598776712385" />
+    <state width="1384" height="250" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1598868088599" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left" timestamp="1598883847359">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1598197624722" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1598883847359" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1598293356483" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1598376823328" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1598776712385" />
+    <state width="1384" height="250" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1598868088599" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right" timestamp="1598883847360">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1598197624723" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1598883847360" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1598293356484" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1598376823329" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1598776712386" />
+    <state width="1384" height="250" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1598868088599" />
+  </component>
+</project>
